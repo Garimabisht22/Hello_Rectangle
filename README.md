@@ -1,6 +1,6 @@
 # hello_rectangle
 
-A new Flutter application.
+A basic easy Flutter application.
 
 ## Getting Started
 
